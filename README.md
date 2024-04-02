@@ -29,3 +29,4 @@ https://youtu.be/iQuQXy99X6I
 
 ---------------------
 ## 구현 
+![image](https://github.com/Squid5O/DBD3_2/assets/101494070/9f963df4-c112-4ab9-96bd-db1e68d91b49)
